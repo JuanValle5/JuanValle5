@@ -1,5 +1,5 @@
 ### Hola! Soy Juan Jose Valencia 👋
-Estudiante de Ingenieria en Sistemas \n
+Estudiante de Ingenieria en Sistemas\
 Universidad del Valle
 Tercer semestre
 <!--
