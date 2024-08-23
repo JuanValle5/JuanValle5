@@ -1,7 +1,7 @@
 ### Hola! Soy Juan Jose Valencia 👋
 Estudiante de Ingenieria en Sistemas\
-Universidad del Valle.
-Tercer semestre
+Universidad del Valle\
+Cuarto semestre
 <!--
 **JuanValle5/JuanValle5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
