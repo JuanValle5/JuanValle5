@@ -1,18 +1,39 @@
-### Hola! Soy Juan Jose Valencia 👋
-Estudiante de Ingenieria en Sistemas\
-Universidad del Valle\
-Cuarto semestre
-<!--
-**JuanValle5/JuanValle5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Juan José Valencia
 
-Here are some ideas to get you started:
+🎓 Estudiante de Ingeniería en Sistemas (7mo semestre)  
+💻 Backend Developer en formación (Java + Spring Boot)  
+📍 Colombia  
 
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+Soy un desarrollador enfocado en backend, actualmente construyendo aplicaciones con Java y Spring Boot.  
+Me interesa el desarrollo de APIs, sistemas escalables y proyectos reales.
+
+---
+
+## 🛠️ Tecnologías
+- Java
+- Spring Boot
+- PostgreSQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 **App de Finanzas Personales**  
+Sistema para gestionar ingresos, gastos, presupuestos y metas.  
+→ Spring Boot + PostgreSQL + Frontend básico  
+
+🔹 **StockWise API**  
+API REST para gestión de inventarios  
+
+🔹 **Turny API**  
+API REST para gestion de citas
+
+---
+
+## 📫 Contacto
+- Email: juanjo.valencia.j@gmail.com
