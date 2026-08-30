@@ -2,6 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Sistemas (8vo semestre)  
 🎓 Estudiante de Teconologia en electronica industrial (2do semestre)
+
 💻 Backend Developer en formación (Java + Spring Boot)  
 📍 Colombia  
 
