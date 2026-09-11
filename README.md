@@ -82,12 +82,13 @@ Me especializo en el desarrollo **Backend** y la ingeniería de software orienta
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-![JuanValle5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanValle5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanValle5&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JuanValle5&show_icons=true&theme=tokyonight&hide_border=true" alt="JuanValle5 GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JuanValle5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JuanValle5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
